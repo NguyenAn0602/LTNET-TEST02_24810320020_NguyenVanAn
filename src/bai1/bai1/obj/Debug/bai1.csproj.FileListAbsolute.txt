@@ -1,0 +1,10 @@
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.frmGymMemberManager.resources
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.Properties.Resources.resources
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.csproj.GenerateResource.cache
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\Laptrinh.net\TEST2\bai1\bai1\bin\Debug\bai1.exe.config
+D:\Laptrinh.net\TEST2\bai1\bai1\bin\Debug\bai1.exe
+D:\Laptrinh.net\TEST2\bai1\bai1\bin\Debug\bai1.pdb
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.exe
+D:\Laptrinh.net\TEST2\bai1\bai1\obj\Debug\bai1.pdb

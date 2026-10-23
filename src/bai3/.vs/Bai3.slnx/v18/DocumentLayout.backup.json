@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|d:\\laptrinh.net\\test2\\src\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|D:\\Laptrinh.net\\TEST2\\src\\bai3\\bai3\\frmpatientprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmpatientprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|D:\\Laptrinh.net\\TEST2\\src\\bai3\\bai3\\frmdoctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmdoctorschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|D:\\Laptrinh.net\\TEST2\\src\\bai3\\bai3\\frmpatientprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|solutionrelative:bai3\\frmpatientprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|D:\\Laptrinh.net\\TEST2\\src\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAFA9DF-B111-4F2D-BDEC-54498DD83CC0}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPatientProfiles.cs",
+              "DocumentMoniker": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\frmPatientProfiles.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmPatientProfiles.cs",
+              "ToolTip": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\frmPatientProfiles.cs",
+              "RelativeToolTip": "Bai3\\frmPatientProfiles.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAowI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:22:08.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDoctorSchedule.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\frmDoctorSchedule.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmDoctorSchedule.cs",
+              "ToolTip": "D:\\Test02\\src\\Bai3\\Bai3\\frmDoctorSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Test02\\src\\Bai3\\Bai3\\frmDoctorSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:17:26.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPatientProfiles.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\frmPatientProfiles.cs",
+              "RelativeDocumentMoniker": "Bai3\\frmPatientProfiles.cs",
+              "ToolTip": "D:\\Test02\\src\\Bai3\\Bai3\\frmPatientProfiles.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Test02\\src\\Bai3\\Bai3\\frmPatientProfiles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:16:53.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\Form1.cs",
+              "ToolTip": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\Form1.cs",
+              "RelativeToolTip": "Bai3\\Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA5wJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T02:06:40.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\Form1.cs",
+              "ToolTip": "D:\\Laptrinh.net\\TEST2\\src\\bai3\\Bai3\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T01:58:15.034Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
